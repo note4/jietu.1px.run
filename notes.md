@@ -1,0 +1,1 @@
+缩略图宽：236px 参考 Pinterest

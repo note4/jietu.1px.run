@@ -57,3 +57,6 @@ build-iPhoneSimulator/
 
 # 
 /.history/
+/_site
+.DS_Store
+/uploads/IMG_*

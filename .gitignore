@@ -61,3 +61,4 @@ build-iPhoneSimulator/
 .DS_Store
 /uploads/IMG_*
 /node_modules/
+/.jekyll-cache/

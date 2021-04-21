@@ -23,3 +23,18 @@ Copyright (C) 2018 WowThemes.net.
 Thank you!
 
 [Sal](https://www.wowthemes.net)
+
+
+
+## server
+
+bundle exec jekyll server
+
+
+## bundle
+
+bundle exec jekyll build -d _site
+
+## browser-sync
+
+browser-sync start --server  --files "**/*.css, **/*.jpg, **/*.png, **/*.html, **/*.apk"
